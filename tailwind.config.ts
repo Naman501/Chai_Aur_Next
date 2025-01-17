@@ -45,9 +45,10 @@ export default {
             transform: "translate(-50%,-40%) scale(1)",
           },
         },
-      },scroll: {
-        to: {
-          transform: "translate(calc(-50% - 0.5rem))",
+        scroll: {
+          to: {
+            transform: "translate(calc(-50% - 0.5rem))",
+          },
         },
       },
       colors: {

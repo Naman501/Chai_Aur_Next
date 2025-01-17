@@ -59,7 +59,7 @@ className="
             <InfiniteMovingCards
         items={musicSchoolTestimonials}
         direction="right"
-        speed="fast"
+        speed="slow"
         pauseOnHover={true}
       />
             </div>
